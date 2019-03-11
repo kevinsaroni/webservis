@@ -12,8 +12,9 @@
         <td> : </td>
         <td>Dimas Ahmad Rizal</td>
     </tr>
-</table>";
+</table> <br>";
 
     echo $text;
-    
 ?>
+
+    <a href="/akademik">Go To Akademik</a>
